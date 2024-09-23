@@ -1,2 +1,2 @@
-streamlit
-os
+streamlit>=1.0
+
